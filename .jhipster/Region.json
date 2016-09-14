@@ -1,0 +1,19 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "regionId",
+            "fieldType": "Long"
+        },
+        {
+            "fieldName": "regionName",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20160913000824",
+    "entityTableName": "region",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no"
+}
